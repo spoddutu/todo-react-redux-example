@@ -1,0 +1,33 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "An example todo react and redux app",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santhosh P",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.3.26",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "babelify": "^7.2.0",
+    "browserify": "^12.0.1",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-webserver": "^0.9.1",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.6.1"
+  },
+  "dependencies": {
+    "history": "^1.17.0",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "react-redux": "^4.0.5",
+    "react-router": "^1.0.3",
+    "redux": "^3.0.5"
+  }
+}

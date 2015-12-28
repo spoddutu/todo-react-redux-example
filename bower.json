@@ -1,0 +1,23 @@
+{
+  "name": "todo",
+  "description": "An example todo react and redux app",
+  "main": "index.html",
+  "authors": [
+    "Santhosh P"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Materialize": "materialize#~0.97.5",
+    "font-awesome": "~4.5.0"
+  }
+}
